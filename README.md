@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Vr0o0
+- 👀 I’m interested in: Programming, managing and helping other developers.
+- 🌱 I’m currently learning: Currently trying to get fluent in C++.
+- 💞️ I’m looking to collaborate on: Roblox projects, FiveM projects, Minecraft projects.
+- 📫 How to reach me: on discord ghostydusty
+- ⚡ Fun fact: I've been programming for 8 years now in multiple languages.
